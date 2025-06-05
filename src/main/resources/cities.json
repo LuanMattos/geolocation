@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "uf": "AC",
+    "regiao": "Norte",
+    "localidade": "Acrelândia",
+    "localidadeSemAcentos": "Acrelandia",
+    "faixaDeCep": "69945-000 a 69949-999",
+    "cepInicial": 69945000,
+    "cepFinal": 69949999,
+    "situacao": "Não codificada por logradouros",
+    "tipoDeFaixa": "Total do município",
+    "latitude": -10.07379389,
+    "longitude": -67.05231658,
+    "codGeograficoSubdivisao": "12000130500",
+    "codGeograficoDistrito": "120001305",
+    "codIbge": "1200013",
+    "microrregiao": "RIO BRANCO",
+    "mesorregiao": "VALE DO ACRE",
+    "categoria": "CIDADE",
+    "altitude": 205.89,
+    "localizacao": "BRA, ACRE, ACRELÂNDIA",
+    "localizacaoSemAcentos": "BR, ACRE, ACRELANDIA"
+  }
+]
